@@ -260,6 +260,7 @@ dist/
 .ionide/
 
 # Test coverage files
+docs/
 coverage.xml
 coverage.*.xml
 
